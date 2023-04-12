@@ -7,6 +7,7 @@ public class Append {
 StringBuffer sb=new StringBuffer("Hello");
 sb.append("World");
 System.out.println(sb);
+System.out.println("SampleTest");
 	}
 
 }
